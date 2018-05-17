@@ -1,5 +1,6 @@
 rootProject.name = 'microservices'
 
+include 'api-gateway'
 include 'config-server'
 include 'config-client'
 include 'eureka-server'
